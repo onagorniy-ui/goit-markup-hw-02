@@ -1,0 +1,15 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# IDE and Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Temporary and build files
+node_modules/
+dist/
+build/
